@@ -26,6 +26,7 @@ Dataset Source: Roboflow (annotated and augmented IR PV images)
 Annotation Format: TFRecord and label map
 
 🧩 Directory Structure
+
 <img width="787" height="638" alt="image" src="https://github.com/user-attachments/assets/801759a3-0789-49b5-9a37-957c6fdc75b2" />
 
 
