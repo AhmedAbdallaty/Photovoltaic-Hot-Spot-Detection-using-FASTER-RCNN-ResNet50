@@ -47,21 +47,7 @@ Annotation Format: TFRecord and label map
  ┗ 📜 README.md
 
 
-🚀 Fine-Tuning Your Model
 
-1. After data preprocessing, make sure your Google Drive repository is structured as follows:
-        <img width="411" height="337" alt="image" src="https://github.com/user-attachments/assets/1d2ff8c3-56a1-40de-897e-78a3d407c29f" />
-2. Make sure you have already saved the training and validation label map and TFRecord files in the annotations folder.
-3. Mount your Google Drive:
-   `from google.colab import drive
-   drive.mount('/content/drive')`
-4. Install latest TensorFlow version:
-   `!pip install tensorflow==2.13`
-5. Clone TensorFlow model:
-   `!git clone https://github.com/tensorflow/models.git`
-6. `pwd `/conten``
-   `cd /content/models/research`
-   '!protoc object_detection/protos/*.proto --python_out=.'
    
         
 
