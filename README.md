@@ -50,8 +50,11 @@ Annotation Format: TFRecord and label map
 🚀 Fine-Tuning Your Model
 
 1. After data preprocessing, make sure your Google Drive repository is structured as follows:
-   
         <img width="411" height="337" alt="image" src="https://github.com/user-attachments/assets/1d2ff8c3-56a1-40de-897e-78a3d407c29f" />
+2. Make sure you have already saved the training and validation label map and TFRecord files in the annotations folder.
+3. Mount your Google Drive:
+   `from google.colab import drive
+   drive.mount('/content/drive')`
    
         
 
