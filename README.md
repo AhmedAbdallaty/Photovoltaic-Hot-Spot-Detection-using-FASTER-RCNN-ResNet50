@@ -55,6 +55,13 @@ Annotation Format: TFRecord and label map
 3. Mount your Google Drive:
    `from google.colab import drive
    drive.mount('/content/drive')`
+4. Install latest TensorFlow version:
+   `!pip install tensorflow==2.13`
+5. Clone TensorFlow model:
+   `!git clone https://github.com/tensorflow/models.git`
+6. `pwd `/conten``
+   `cd /content/models/research`
+   '!protoc object_detection/protos/*.proto --python_out=.'
    
         
 
