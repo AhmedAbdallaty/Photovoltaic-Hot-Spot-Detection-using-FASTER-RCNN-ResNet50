@@ -26,25 +26,7 @@ Dataset Source: Roboflow (annotated and augmented IR PV images)
 Annotation Format: TFRecord and label map
 
 🧩 Directory Structure
-
-📦 PV-HotSpot-Detection
- ┣ 📂 annotations/
- ┃ ┣ train.record
- ┃ ┣ test.record
- ┃ ┗ label_map.pbtxt
- ┣ 📂 images/
- ┃ ┣ train/
- ┃ ┗ test/
- ┣ 📂 models/
- ┃ ┗ faster_rcnn_resnet50/
- ┣ 📂 exported-models/
- ┃ ┗ my_model/
- ┣ 📂 scripts/
- ┃ ┗ generate_tfrecord.py
- ┣ 📜 pipeline.config
- ┣ 📜 training_script.ipynb
- ┣ 📜 requirements.txt
- ┗ 📜 README.md
+<img width="787" height="638" alt="image" src="https://github.com/user-attachments/assets/801759a3-0789-49b5-9a37-957c6fdc75b2" />
 
 
 
