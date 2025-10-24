@@ -30,6 +30,19 @@ Annotation Format: TFRecord and label map
 <img width="787" height="638" alt="image" src="https://github.com/user-attachments/assets/801759a3-0789-49b5-9a37-957c6fdc75b2" />
 
 
+🔍  Inference Results:
+
+<img width="351" height="346" alt="image" src="https://github.com/user-attachments/assets/020e7fca-3fa3-4a15-91f8-ee5f113ade71" />
+
+<img width="368" height="330" alt="image" src="https://github.com/user-attachments/assets/69e44d51-d3d2-4b32-9666-4e76d153c853" />
+
+<img width="388" height="314" alt="image" src="https://github.com/user-attachments/assets/9a393b7f-c83d-4a38-87a0-d55f8942095b" />
+
+
+
+
+
+
 
    
         
