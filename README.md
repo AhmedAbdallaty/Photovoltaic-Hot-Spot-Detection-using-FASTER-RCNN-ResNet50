@@ -47,9 +47,9 @@ Annotation Format: TFRecord and label map
  ┗ 📜 README.md
 
 
+Steps to fine-tune your model:
 
-Integrating IoT for real-time PV inspection
+1. After data preprocessing, make sure your Google Drive repository is structured as follows:
+        <img width="411" height="337" alt="image" src="https://github.com/user-attachments/assets/1d2ff8c3-56a1-40de-897e-78a3d407c29f" />
+        
 
-Deploying the model on edge devices (e.g., Jetson Nano)
-
-Improving detection for complex and dimmed hot spots
