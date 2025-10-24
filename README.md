@@ -73,10 +73,11 @@ Model tested on unseen real-world IR images from UNITEN campus and Roboflow.
 ⚙️ Installation & Setup
 
 1️⃣ Clone the Repository
-git clone https://github.com/yourusername/PV-HotSpot-Detection.git
+git clone https //github.com/AhmedAbdallaty/Photovoltaic-Hot-Spot-Detection-using-FASTER-RCNN-ResNet50.git
 cd PV-HotSpot-Detection
 
 2️⃣ Install Dependencies
+
 pip install -r requirements.txt
 
 
@@ -119,7 +120,6 @@ fine_tune_checkpoint path
 
 train_input_reader and eval_input_reader TFRecord paths
 
-Batch size, learning rate, and number of steps as desired.
 
 🚀 Training the Model
 
@@ -182,31 +182,9 @@ viz_utils.visualize_boxes_and_labels_on_image_array(
 cv2.imshow('PV Hot Spot Detection', image_np)
 cv2.waitKey(0)
 
-📈 Results Visualization
 
-Example inference results:
 
-Example	Hot Spot Type	Detection
-Figure 4.4.1	Far-Distant Hot Spot	✅ Detected
-Figure 4.4.2	Square Large Hot Spot	✅ High Confidence
-Figure 4.4.3	Medium Hot Spot	⚠️ Moderate Confidence
-🧾 Citation
 
-If you use this project, please cite as:
-
-A. M. A. Abdallaty and P. S. Krishnan, “Development of a Photovoltaic Hot Spot Detection System Using Artificial Intelligence,” 2025.
-
-🤝 Contributing
-
-Feel free to open issues or pull requests to improve:
-
-Dataset diversity
-
-Hyperparameter tuning
-
-Model speed and inference optimization
-
-💡 Future Work
 
 Integrating IoT for real-time PV inspection
 
